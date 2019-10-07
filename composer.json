@@ -1,0 +1,17 @@
+{
+    "name": "genuisprime/location-serviceability",
+    "description": "Location Serviceability",
+    "type": "metapackage",
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "GP\\LocationServiceability\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "classmap": [
+            "tests/"
+        ]
+    }
+}
