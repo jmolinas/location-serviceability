@@ -1,7 +1,5 @@
 <?php
 
-namespace Tests\Feature\Service;
-
 use GP\LocationServiceability\Models\Category;
 use GP\LocationServiceability\Models\Location;
 use GP\LocationServiceability\Models\Service;
